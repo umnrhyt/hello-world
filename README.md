@@ -28,12 +28,6 @@ Here are some ideas to get you started:
 -->
 ![Bahasa yang Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=umnrhyt&layout=compact&theme=radical)
 
-
-
----
-
-![snake gif](https://github.com/umnrhyt/umnrhyt/blob/output/github-snake-dark.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
