@@ -32,11 +32,4 @@ Here are some ideas to get you started:
 
 ---
 
-# RoadCard
-[![roadmap.sh](https://roadmap.sh/card/wide/68061f3fd7a904b5ef42907d?variant=dark)](https://roadmap.sh)
-
----
-
-## Social Media 
-
----
+![snake gif](https://github.com/umnrhyt/umnrhyt/blob/output/github-snake-dark.svg)
