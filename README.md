@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 
 # Halo, Saya umnrhyt 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ## 🚀 Tentang Saya
 - 🎓 Saya sangat tertarik dengan pemrograman, belajar teknologi baru, dan memecahkan masalah.
 - 💼 Saat ini saya sedang mengeksplorasi kontribusi open-source dan meningkatkan keterampilan pengembangan saya.
@@ -27,10 +33,4 @@ Here are some ideas to get you started:
 ![Statistik GitHub umnrhyt](https://github-readme-stats.vercel.app/api?username=umnrhyt&show_icons=true&theme=radical)
 -->
 ![Bahasa yang Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=umnrhyt&layout=compact&theme=radical)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
-</picture>
 
