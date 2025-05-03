@@ -14,21 +14,27 @@ Here are some ideas to get you started:
 -->
 
 
-# Halo, Saya umnrhyt 👋
+# Hello World, I'am Uman Ruhiyat👋
 
-![Snake animation](https://raw.githubusercontent.com/umnrhyt/umnrhyt/output/github-contribution-grid-snake-dark.svg)
-
-
-
-## 🚀 Tentang Saya
+## 🚀 About Me
 - 🎓 Saya sangat tertarik dengan pemrograman, belajar teknologi baru, dan memecahkan masalah.
 - 💼 Saat ini saya sedang mengeksplorasi kontribusi open-source dan meningkatkan keterampilan pengembangan saya.
-<!--- 🌱 Sedang mempelajari **[teknologi atau topik yang sedang dipelajari]**.
+<!--🌱 Sedang mempelajari **[teknologi atau topik yang sedang dipelajari]**.
 - 📫 Hubungi saya di: [LinkedIn](https://www.linkedin.com/in/umnrhyt).
 -->
-## 📈 Statistik GitHub Saya
-<!--
-![Statistik GitHub umnrhyt](https://github-readme-stats.vercel.app/api?username=umnrhyt&show_icons=true&theme=radical)
--->
-![Bahasa yang Paling Sering Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=umnrhyt&layout=compact&theme=radical)
 
+--- 
+
+![Header](.assets/img/umnrhyt-header.png)
+![Snake animation](https://raw.githubusercontent.com/umnrhyt/umnrhyt/output/github-contribution-grid-snake-dark.svg)
+
+---
+### Learning
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
+![My Skills](https://skillicons.dev/icons?i=py,bash,kali,linux,ubuntu,debian)
+
+---
+## Connect With Me 
+[![My Skills](https://skillicons.dev/icons?i=github)]()
+[![My Skills](https://skillicons.dev/icons?i=instagram)]()
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](#)
