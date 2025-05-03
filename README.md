@@ -16,17 +16,15 @@ Here are some ideas to get you started:
 
 # Hello World, I'am Uman Ruhiyat👋
 
+![Header](assets/img/umnrhyt-header.png)
+![Snake animation](https://raw.githubusercontent.com/umnrhyt/umnrhyt/output/github-contribution-grid-snake-dark.svg)
+
 ## 🚀 About Me
 - 🎓 Saya sangat tertarik dengan pemrograman, belajar teknologi baru, dan memecahkan masalah.
 - 💼 Saat ini saya sedang mengeksplorasi kontribusi open-source dan meningkatkan keterampilan pengembangan saya.
 <!--🌱 Sedang mempelajari **[teknologi atau topik yang sedang dipelajari]**.
 - 📫 Hubungi saya di: [LinkedIn](https://www.linkedin.com/in/umnrhyt).
 -->
-
---- 
-
-![Header](.assets/img/umnrhyt-header.png)
-![Snake animation](https://raw.githubusercontent.com/umnrhyt/umnrhyt/output/github-contribution-grid-snake-dark.svg)
 
 ---
 ### Learning
