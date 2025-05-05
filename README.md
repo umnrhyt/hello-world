@@ -17,8 +17,18 @@ Here are some ideas to get you started:
 # Hello World, I'am Uman Ruhiyat👋
 
 ![Header](assets/img/umnrhyt-header.png)
-![Snake animation](https://raw.githubusercontent.com/umnrhyt/umnrhyt/output/github-contribution-grid-snake-dark.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umnrhyt/umnrhyt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umnrhyt/umnrhyt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/umnrhyt/umnrhyt/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/umnrhyt/umnrhyt/output/snake.svg" alt="Snake animation" />
+
+###
 ## 🚀 About Me
 - 🎓 Saya sangat tertarik dengan pemrograman, belajar teknologi baru, dan memecahkan masalah.
 - 💼 Saat ini saya sedang mengeksplorasi kontribusi open-source dan meningkatkan keterampilan pengembangan saya.
