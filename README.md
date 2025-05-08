@@ -48,3 +48,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=github)]()
 [![My Skills](https://skillicons.dev/icons?i=instagram)]()
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](#)
+
+## Github Status 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umnrhyt&theme=dark&show_icons=true&hide_border=true&layout=compact)
