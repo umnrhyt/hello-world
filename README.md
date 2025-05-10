@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hello World, I'am Uman Ruhiyat👋
 
-![Header](assets/img/umnrhyt-header.png)
+![Header](assets/images/logos/umnrhyt-header.png)
 
 ###
 <!--
