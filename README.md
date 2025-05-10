@@ -39,8 +39,10 @@ Here are some ideas to get you started:
 -->
 
 ---
-### Learning
-![My Skills](https://skillicons.dev/icons?i=html,css,js)
+### My Skills
+![My Skills](https://skillicons.dev/icons?i=html)
+![My Skills](https://skillicons.dev/icons?i=css)
+![My Skills](https://skillicons.dev/icons?i=js)
 ![My Skills](https://skillicons.dev/icons?i=py,bash,kali,linux,ubuntu,debian)
 
 ---
