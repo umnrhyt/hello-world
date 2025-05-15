@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello World, I'am Uman Ruhiyat👋
+# 🎉 Welcome to my GitHub profile!
 
 ![Header](assets/images/logos/umnrhyt-header.png)
 
@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/umnrhyt/umnrhyt/output/pacman-contribution-graph.svg">
 </picture>
 -->
+
+⭐ If you like my projects, please give them a star!
+
 ###
 
 <img src="https://raw.githubusercontent.com/umnrhyt/umnrhyt/output/snake.svg" alt="Snake animation" />
@@ -37,7 +40,7 @@ Here are some ideas to get you started:
 <!--🌱 Sedang mempelajari **[teknologi atau topik yang sedang dipelajari]**.
 - 📫 Hubungi saya di: [LinkedIn](https://www.linkedin.com/in/umnrhyt).
 -->
-
+🌐 Check out my portfolio at [umnrhyt.github.io](https://umnrhyt.github.io)
 ---
 ### My Skills
 ![My Skills](https://skillicons.dev/icons?i=html)
@@ -47,10 +50,10 @@ Here are some ideas to get you started:
 
 ---
 ## Connect With Me 
-[![My Skills](https://skillicons.dev/icons?i=github)]()
+[![My Skills](https://skillicons.dev/icons?i=github)](/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)]()
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](#)
 
-## Github Status 
+<!--## Github Status 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umnrhyt&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umnrhyt&theme=dark&show_icons=true&hide_border=true&layout=compact)-->
