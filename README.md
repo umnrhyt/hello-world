@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 # 🎉 Welcome to my GitHub profile!
 
-![Header](assets/images/logos/umnrhyt-header.png)
-
+![Header](https://raw.githubusercontent.com/umnrhyt/umnrhyt/refs/heads/assets/logoUR/umnrhyt-header.png)
 ###
 <!--
 <picture>
@@ -40,7 +39,10 @@ Here are some ideas to get you started:
 <!--🌱 Sedang mempelajari **[teknologi atau topik yang sedang dipelajari]**.
 - 📫 Hubungi saya di: [LinkedIn](https://www.linkedin.com/in/umnrhyt).
 -->
-🌐 Check out my portfolio at [umnrhyt.github.io](https://umnrhyt.github.io)
+# 🌐 Personal Website 
+- [Github Pages](https://umnrhyt.github.Bloger
+-
+- Bloger
 ---
 ### My Skills
 ![My Skills](https://skillicons.dev/icons?i=html)
