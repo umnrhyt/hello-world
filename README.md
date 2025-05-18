@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 - 📫 Hubungi saya di: [LinkedIn](https://www.linkedin.com/in/umnrhyt).
 -->
 # 🌐 Personal Website 
-- [Github Pages](https://umnrhyt.github.Bloger
+- [Github Pages](https://umnrhyt.github.io)
 -
-- Bloger
+- Blogger
 ---
 ### My Skills
 ![My Skills](https://skillicons.dev/icons?i=html)
