@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 🎉 Welcome to my GitHub profile!
 
-![Header](https://raw.githubusercontent.com/umnrhyt/umnrhyt/refs/heads/assets/logoUR/umnrhyt-header.png)
+![Header](https://umnrhyt.github.io/umnrhyt/umnrhyt-header.png)
 ###
 <!--
 <picture>
@@ -59,3 +59,8 @@ Here are some ideas to get you started:
 <!--## Github Status 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=umnrhyt&theme=dark&show_icons=true&hide_border=true&layout=compact)-->
+## 📊 Statistik GitHub
+
+![umnrhyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=umnrhyt&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umnrhyt&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=umnrhyt&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
