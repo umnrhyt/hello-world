@@ -64,3 +64,13 @@ Here are some ideas to get you started:
 ![umnrhyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=umnrhyt&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umnrhyt&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=umnrhyt&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
+
+## 🎲
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umnrhyt/umnrhyt/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umnrhyt/umnrhyt/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/umnrhyt/umnrhyt/refs/heads/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
