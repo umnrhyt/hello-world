@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **umnrhyt/umnrhyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 # my code : 
 
 ```html
-<head>
-  
     <!-- SEO Meta Tags -->
   <meta name="description" content="Pages of Uman Ruhiyat">
   <meta name="keywords" content="Uman Ruhiyat, umnrhyt , mans , Mans 141">
@@ -59,14 +57,4 @@ Here are some ideas to get you started:
   <link rel="icon" type="image/png" sizes="32x32" href="https://umnrhyt.github.io/umnrhyt/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="https://umnrhyt.github.io/umnrhyt/favicon/favicon-16x16.png">
   <link rel="manifest" href="https://umnrhyt.github.io/umnrhyt/favicon/site.webmanifest">
-  
-    <!-- LINK -->
-
-    <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"/>
-  
-    <!-- Style -->
-  
-</head>
-
-'''
+```
