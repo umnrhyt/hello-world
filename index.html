@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title> Hello World, I'm Uman Ruhiyat </title>
+  
+    <!-- SEO Meta Tags -->
+  <meta name="description" content="Pages of Uman Ruhiyat">
+  <meta name="keywords" content="Uman Ruhiyat, umnrhyt , mans , Mans 141">
+  <meta name="author" content="Uman Ruhiyat">
+  
+    <!-- Open Graph Tags -->
+  <meta property="og:title" content="Hello Worlds, I'm Uman Ruhiyat">
+  <meta property="og:description" content="umnrhyt pages">
+  <meta property="og:image" content="https://umnrhyt.github.io/umnrhyt/umnrhyt.png">
+  <meta property="og:url" content="https://umnrhyt.github.io/umnrhyt/index.html">
+  <meta property="og:type" content="profile">
+  
+    <!-- Favicon -->
+  <link rel="icon" href="https://umnrhyt.github.io/umnrhyt/favicon/favicon.ico" type="image/x-icon">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://umnrhyt.github.io/umnrhyt/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://umnrhyt.github.io/umnrhyt/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://umnrhyt.github.io/umnrhyt/favicon/favicon-16x16.png">
+  <link rel="manifest" href="https://umnrhyt.github.io/umnrhyt/favicon/site.webmanifest">
+  
+  
+    <!-- Style -->
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      list-style: none;
+      text-decoration: none;
+    }
+    body {
+    background: linear-gradient(135deg, black, red);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+   }
+    .typing-container {
+    font-size: 2.5rem;
+    font-weight: 600;
+    border-right: 3px solid #fff;
+    white-space: nowrap;
+    overflow: hidden;
+    letter-spacing: 2px;
+    animation: blink-caret 0.75s step-end infinite;
+    max-width: 90vw;
+    }
+  @keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: #fff; }
+  }
+  </style>
+  
+</head>
+
+<body>
+  
+  <div class="typing-container" id="typing"></div>
+  
+  <!-- Javascripts -->
+  <script>
+  
+  const texts = [
+    "Mans 141",
+    "Uman Ruhiyat",
+    "@umnrhyt",
+  ];
+  
+  const typingElement = document.getElementById('typing');
+  const typingSpeed = 100; // ms per character typed
+  const erasingSpeed = 50; // ms per character erased
+  const delayBetweenTexts = 1500; // ms before typing next text
+  
+  let textIndex = 0;
+  let charIndex = 0;
+  let isDeleting = false;
+  
+  function type() {
+    const currentText = texts[textIndex];
+    if (!isDeleting) {
+      // Typing
+      typingElement.textContent = currentText.substring(0, charIndex + 1);
+      charIndex++;
+        if (charIndex === currentText.length) {
+          // Wait before deleting
+          isDeleting = true;
+          setTimeout(type, delayBetweenTexts);
+        }
+        else {
+          setTimeout(type, typingSpeed);
+        }
+    }
+    else {
+      // Deleting
+      typingElement.textContent = currentText.substring(0, charIndex - 1);
+      charIndex--;
+      if (charIndex === 0) {
+        // Move to next text
+        isDeleting = false;
+        textIndex = (textIndex + 1) % texts.length;
+        setTimeout(type, typingSpeed);
+      } 
+      else {
+        setTimeout(type, erasingSpeed);
+      }
+    }
+  }
+  
+  // Start the typing effect after DOM content loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    setTimeout(type, delayBetweenTexts);
+  });
+  
+  </script>
+</body>
+</html>
